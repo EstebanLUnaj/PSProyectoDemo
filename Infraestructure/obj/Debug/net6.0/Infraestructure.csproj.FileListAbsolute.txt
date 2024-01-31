@@ -1,0 +1,17 @@
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Aplication.dll
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Aplication.pdb
+C:\repos\Demo\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\repos\Demo\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll
